@@ -24,5 +24,5 @@ THEN no data is erased
 
 The following animation demonstrates the application functionality:
 
-![Screenshot]()
-[Link]()
+![Screenshot](./Assets/screenshot.png)
+[Link](https://clayandemar.github.io/scheduler/)
